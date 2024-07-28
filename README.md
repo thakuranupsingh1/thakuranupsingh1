@@ -1,5 +1,12 @@
-<img width="322" alt="Screenshot 2024-01-02 210236" src="https://github.com/user-attachments/assets/186ede22-b84a-42ec-bc52-9579af5e2720">
-- 👋 Hi, I’m @thakuranupsingh1
+![gif](https://github.com/user-attachments/assets/1bcc7af0-f939-422f-b904-ce733e559f1e)
+
+
+
+
+
+
+
+- 👋 Hi, I’m ANUP SINGH
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
